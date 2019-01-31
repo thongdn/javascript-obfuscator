@@ -90,6 +90,7 @@
     "webpack:prod": "scripts/webpack-prod",
     "webpack:dev": "scripts/webpack-dev",
     "build": "scripts/build",
+    "build-test": "scripts/build-test",
     "watch": "scripts/watch",
     "removeCacheDir": "scripts/remove-cache-dir",
     "test:compile": "scripts/test-compile",

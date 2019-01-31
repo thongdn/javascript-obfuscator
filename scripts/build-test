@@ -1,0 +1,5 @@
+#!/bin/bash
+
+yarn run removeCacheDir &&
+yarn run webpack:dev &&
+yarn unlink && yarn link
